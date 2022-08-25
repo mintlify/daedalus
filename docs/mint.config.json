@@ -5,10 +5,10 @@
     "dark": "/logo/logo.svg"
   },
   "colors": {
-    "primary": "#00ebaa",
+    "primary": "#00b582",
     "light": "#ECE7E3",
     "dark": "#2B2B2F",
-    "ultraLight": "#F3EFEC",
+    "ultraLight": "#00ebaa",
     "ultraDark": "#050229"
   },
   "topbarCtaButton": {
@@ -20,13 +20,12 @@
     {
       "group": "Guides",
       "pages": [
+        "getting-started",
         "stock-paper-trading",
         "crypto-paper-trading",
         "creating-strategy",
         "live-trading",
-        "key-assumptions",
-        "congratulations",
-        "getting-started"
+        "key-assumptions"
       ]
     }
   ]
