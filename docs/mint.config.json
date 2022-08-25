@@ -1,0 +1,33 @@
+{
+  "name": "Daedalus Documentation",
+  "logo": {
+    "light": "/logo/logo.svg",
+    "dark": "/logo/logo.svg"
+  },
+  "colors": {
+    "primary": "#00ebaa",
+    "light": "#ECE7E3",
+    "dark": "#2B2B2F",
+    "ultraLight": "#F3EFEC",
+    "ultraDark": "#050229"
+  },
+  "topbarCtaButton": {
+    "url": "https://app.daedalusfi.com/",
+    "name": "Start Trading"
+  },
+  "anchors": [],
+  "navigation": [
+    {
+      "group": "Guides",
+      "pages": [
+        "stock-paper-trading",
+        "crypto-paper-trading",
+        "creating-strategy",
+        "live-trading",
+        "key-assumptions",
+        "congratulations",
+        "getting-started"
+      ]
+    }
+  ]
+}
