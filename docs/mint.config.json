@@ -36,6 +36,10 @@
   },
   "navigation": [
     {
+      "group": "Home",
+      "pages": ["home/introduction"]
+    },
+    {
       "group": "Guides",
       "pages": ["guides/alpaca", "guides/stock-paper-trading"]
     }
