@@ -14,8 +14,8 @@
   },
   "topbarLinks": [
     {
-      "name": "Newsletter",
-      "url": "https://news.daedalusfi.com"
+      "name": "Learn more",
+      "url": "https://daedalusfi.com"
     }
   ],
   "anchors": [
@@ -25,9 +25,9 @@
       "url": "https://careers.daedalusfi.com"
     },
     {
-      "name": "Start Trading",
-      "icon": "money-bill-trend-up",
-      "url": "https://app.daedalusfi.com"
+      "name": "Newsletter",
+      "icon": "newspaper",
+      "url": "https://news.daedalusfi.com"
     }
   ],
   "footerSocials": {
