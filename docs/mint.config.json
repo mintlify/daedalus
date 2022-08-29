@@ -42,7 +42,14 @@
     },
     {
       "group": "Guides",
-      "pages": ["guides/alpaca", "guides/stock-paper-trading"]
+      "pages": [
+        "guides/alpaca",
+        "guides/stock-paper-trading",
+        "guides/crypto-paper-trading",
+        "guides/creating-first-strategy",
+        "guides/live-trading",
+        "guides/key-assumptions"
+      ]
     }
   ]
 }
