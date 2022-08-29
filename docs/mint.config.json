@@ -3,11 +3,11 @@
   "logo": "/logo/logo.png",
   "favicon": "/logo/favicon.png",
   "colors": {
-    "primary": "#00b582",
-    "light": "#ECE7E3",
-    "dark": "#2B2B2F",
-    "ultraLight": "#00ebaa",
-    "ultraDark": "#050229"
+    "primary": "#1BCD9C",
+    "light": "#9DEAD4",
+    "dark": "#4B54C9",
+    "ultraLight": "#E6F5F1",
+    "ultraDark": "#212665"
   },
   "topbarCtaButton": {
     "url": "https://app.daedalusfi.com",
