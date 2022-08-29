@@ -1,7 +1,7 @@
 {
   "name": "Daedalus Documentation",
   "logo": "/logo/logo.png",
-  "favicon": "/logo/favicon/png",
+  "favicon": "/logo/favicon.png",
   "colors": {
     "primary": "#00b582",
     "light": "#ECE7E3",
