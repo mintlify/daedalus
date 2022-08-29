@@ -15,10 +15,12 @@
     "url": "https://app.daedalusfi.com",
     "name": "Start Trading"
   },
-  "topbarLinks": {
-    "name": "Newsletter",
-    "url": "https://news.daedalusfi.com"
-  },
+  "topbarLinks": [
+    {
+      "name": "Newsletter",
+      "url": "https://news.daedalusfi.com"
+    }
+  ],
   "anchors": [
     {
       "name": "Careers",
