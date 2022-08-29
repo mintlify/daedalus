@@ -1,9 +1,6 @@
 {
   "name": "Daedalus Documentation",
-  "logo": {
-    "light": "/logo/logo.svg",
-    "dark": "/logo/logo.svg"
-  },
+  "logo": "/logo/logo.png",
   "colors": {
     "primary": "#00b582",
     "light": "#ECE7E3",
