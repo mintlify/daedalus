@@ -12,10 +12,29 @@
     "ultraDark": "#050229"
   },
   "topbarCtaButton": {
-    "url": "https://app.daedalusfi.com/",
+    "url": "https://app.daedalusfi.com",
     "name": "Start Trading"
   },
-  "anchors": [],
+  "topbarLinks": {
+    "name": "Newsletter",
+    "url": "https://news.daedalusfi.com"
+  },
+  "anchors": [
+    {
+      "name": "Careers",
+      "icon": "people-group",
+      "url": "https://careers.daedalusfi.com"
+    },
+    {
+      "name": "Start Trading",
+      "icon": "money-bill-trend-up",
+      "url": "https://app.daedalusfi.com"
+    }
+  ],
+  "footerSocials": {
+    "instagram": "https://www.instagram.com/daedalus.fi",
+    "twitter": "https://twitter.com/DaedalusHQ"
+  },
   "navigation": [
     {
       "group": "Guides",
