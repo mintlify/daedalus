@@ -37,14 +37,7 @@
   "navigation": [
     {
       "group": "Guides",
-      "pages": [
-        "getting-started",
-        "stock-paper-trading",
-        "crypto-paper-trading",
-        "creating-strategy",
-        "live-trading",
-        "key-assumptions"
-      ]
+      "pages": ["guides/alpaca", "guides/stock-paper-trading"]
     }
   ]
 }
