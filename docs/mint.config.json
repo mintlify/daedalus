@@ -41,6 +41,17 @@
       "pages": ["home/introduction", "home/quickstart"]
     },
     {
+      "group": "Mobile",
+      "pages": [
+        "mobile/connecting-accounts",
+        "mobile/applying-for-brokerage-account",
+        "mobile/applying-for-access-to-invest",
+        "mobile/turning-strategies",
+        "mobile/creating-orders",
+        "mobile/socializing"
+      ]
+    },
+    {
       "group": "Guides",
       "pages": [
         "guides/alpaca",
