@@ -50,6 +50,10 @@
         "mobile/strategies",
         "mobile/socializing"
       ]
+    },
+    {
+      "group": "Guides",
+      "pages": ["guides/alpaca"]
     }
   ]
 }
